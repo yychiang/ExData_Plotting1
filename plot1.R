@@ -9,4 +9,3 @@ hist(Global_Activity_Power,col="red")
 dev.copy(png,'plot1.png')
 
 dev.off()
- 
